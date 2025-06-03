@@ -1,7 +1,7 @@
 # OpenCV
 Image Transposer & PDF Converter
 
-This is a simple Python project that uses OpenCV to transpose (flip over its diagonal) an image and convert the result into a PDF file.
+This is a simple Python project that uses OpenCV to transpose an image and convert the result into a PDF file.
 Features:
 
     Load and process images using OpenCV.
